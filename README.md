@@ -5,7 +5,7 @@ This repository contains a comprehensive computational aeroelasticity study focu
 ### Project Overview & Toolchain
 * **Objective:** To accurately replicate experimental turbomachinery data using advanced CFD solvers, analyzing the differences in aerodamping and flow fields between linear and non-linear aerodynamic models.
 * **Software Stack:** * **CAD & Meshing:** CATIA V5 for geometry preparation and AutoGrid for high-quality structured turbomachinery meshing.
-  * **CFD Solvers:** Various internal proprietary solvers (including HADES) were utilized to handle both steady and unsteady aeroelastic simulations.
+  * **CFD Solvers:** Various internal proprietary solvers were utilized to handle both steady and unsteady aeroelastic simulations.
   * **Post-processing:** Tecplot and ParaView for advanced 3D flow field visualization and data extraction.
 
 ### Research Scope
